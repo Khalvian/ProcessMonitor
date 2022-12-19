@@ -1,0 +1,13 @@
+C:\Users\ohlav\source\repos\ProcessMonitor\ProcessMonitor\bin\Debug\netcoreapp3.1\ProcessMonitor.exe
+C:\Users\ohlav\source\repos\ProcessMonitor\ProcessMonitor\bin\Debug\netcoreapp3.1\ProcessMonitor.deps.json
+C:\Users\ohlav\source\repos\ProcessMonitor\ProcessMonitor\bin\Debug\netcoreapp3.1\ProcessMonitor.runtimeconfig.json
+C:\Users\ohlav\source\repos\ProcessMonitor\ProcessMonitor\bin\Debug\netcoreapp3.1\ProcessMonitor.runtimeconfig.dev.json
+C:\Users\ohlav\source\repos\ProcessMonitor\ProcessMonitor\bin\Debug\netcoreapp3.1\ProcessMonitor.dll
+C:\Users\ohlav\source\repos\ProcessMonitor\ProcessMonitor\bin\Debug\netcoreapp3.1\ProcessMonitor.pdb
+C:\Users\ohlav\source\repos\ProcessMonitor\ProcessMonitor\obj\Debug\netcoreapp3.1\ProcessMonitor.csprojAssemblyReference.cache
+C:\Users\ohlav\source\repos\ProcessMonitor\ProcessMonitor\obj\Debug\netcoreapp3.1\ProcessMonitor.csproj.CoreCompileInputs.cache
+C:\Users\ohlav\source\repos\ProcessMonitor\ProcessMonitor\obj\Debug\netcoreapp3.1\ProcessMonitor.AssemblyInfoInputs.cache
+C:\Users\ohlav\source\repos\ProcessMonitor\ProcessMonitor\obj\Debug\netcoreapp3.1\ProcessMonitor.AssemblyInfo.cs
+C:\Users\ohlav\source\repos\ProcessMonitor\ProcessMonitor\obj\Debug\netcoreapp3.1\ProcessMonitor.dll
+C:\Users\ohlav\source\repos\ProcessMonitor\ProcessMonitor\obj\Debug\netcoreapp3.1\ProcessMonitor.pdb
+C:\Users\ohlav\source\repos\ProcessMonitor\ProcessMonitor\obj\Debug\netcoreapp3.1\ProcessMonitor.genruntimeconfig.cache
